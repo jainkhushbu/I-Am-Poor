@@ -8,7 +8,7 @@ void main() {
         title: Text('I Am Poor'),
         centerTitle: true,
       ),
-      backgroundColor: Colors.lightBlue[200],
+      backgroundColor: Colors.orange[200],
       body: Center(
         child: Image(
           image: AssetImage('images/rock.png'),
